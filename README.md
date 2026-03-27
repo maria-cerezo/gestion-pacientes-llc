@@ -22,4 +22,4 @@ Para interactuar con la base de datos sin usar la consola, monté un sistema CRU
 ---
 **Aviso de Privacidad:** *Este proyecto se hizo para resolver un problema en un entorno real. Sin embargo, por motivos de privacidad, este repositorio **SOLO contiene la estructura (código SQL y PHP)**. No hay ningún dato real de pacientes.*
 
-> **Nota de la autora sobre el desarrollo web:** > Como estudiante de 2º año de Ingeniería del Software, mi conocimiento actual y el foco principal de este proyecto es el **diseño y modelado de Bases de Datos**. Para poder entregar una solución completa y usable a la cliente, la interfaz gráfica (PHP/HTML) fue construida apoyándome en herramientas de Inteligencia Artificial (IA).
+**Nota de la autora sobre el desarrollo web:** > Como estudiante de 2º año de Ingeniería del Software, mi conocimiento actual y el foco principal de este proyecto es el **diseño y modelado de Bases de Datos**. Para poder entregar una solución completa y usable al cliente, la interfaz gráfica (PHP/HTML) fue construida apoyándome en herramientas de Inteligencia Artificial (IA).
